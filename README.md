@@ -7,4 +7,4 @@
 - 📆16 y/o
 - 💂‍♂️Currently i'm staff on [purge](https://discord.gg/4mfkSTbHv4)
 
-![Esta es una imagen](oveja.gif)
+![Esta es una imagen](https://media.discordapp.net/attachments/942935308742295686/974863021363052664/oveja.gif?width=132&height=132)
